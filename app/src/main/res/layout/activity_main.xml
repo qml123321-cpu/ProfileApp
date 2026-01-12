@@ -87,7 +87,11 @@
                 android:textSize="16sp"
                 android:textStyle="bold" />
         </LinearLayout>
-
+        <View
+            android:layout_width="3dp"
+            android:layout_height="60dp"
+            android:background="#FFFFFF"
+            android:layout_marginTop="15dp"/>
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="80dp"
@@ -111,7 +115,11 @@
                 android:textSize="16sp"
                 android:textStyle="bold" />
         </LinearLayout>
-
+        <View
+            android:layout_width="3dp"
+            android:layout_height="60dp"
+            android:background="#FFFFFF"
+            android:layout_marginTop="15dp"/>
         <LinearLayout
             android:layout_width="0dp"
             android:layout_height="80dp"

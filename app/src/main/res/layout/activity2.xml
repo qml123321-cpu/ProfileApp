@@ -89,8 +89,7 @@
             android:layout_weight="1"
             android:gravity="center"
             android:orientation="vertical"
-            android:background="@drawable/bg_rounded"
-            >
+            android:background="@drawable/bg_rounded">
 
             <TextView
                 android:layout_width="wrap_content"
